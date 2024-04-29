@@ -8,15 +8,15 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Import the required packagesprint the present data
+Step 1.Import the required packagesprint the present data
 
-2.print the present data
+Step 2.print the present data
 
-3.print the null values
+Step 3.print the null values
 
-4.using decisiontreeclassifier, find the predicted values
+Step 4.using decisiontreeclassifier, find the predicted values
 
-5.print the result
+Step 5.print the result
 ## Program:
 ```
 /*
